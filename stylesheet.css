@@ -144,6 +144,9 @@ nav a {
     text-decoration:none;
 }
 
+nav  h2 {
+    display:none;
+}
 header {
     background-image: linear-gradient(to right, #2104D9, black);
     color:white;
